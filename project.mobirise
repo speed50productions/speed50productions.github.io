@@ -98,7 +98,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Under Construction",
-          "caption": "<p>Hello! We are SPEED 50 PRODUCTIONS. We are an independent group who makes videos. We are working hard to get you, the viewers, a website. Unfortunately, that takes time.&nbsp;<span style=\"font-size: 1.25rem;\">For now, enjoy this text and a background image showing a sign with \"SIDEWALK CLOSED\" written on it.&nbsp;</span></p><p>Thanks,&nbsp;</p><p><span style=\"font-size: 1.25rem;\">SPEED 50 PRODUCTIONS</span></p><p>P.S. If you really want to see what we have so far, visit http://speed50productions.github.io/beta</p><p><br></p>",
+          "caption": "<p>Hello! We are SPEED 50 PRODUCTIONS. We are an independent group who makes videos. We are working hard to get you, the viewers, a website. Unfortunately, that takes time.&nbsp;<span style=\"font-size: 1.25rem;\">For now, enjoy this text and a background image showing a sign with \"SIDEWALK CLOSED\" written on it.&nbsp;</span></p><p>Thanks,&nbsp;</p><p><span style=\"font-size: 1.25rem;\">SPEED 50 PRODUCTIONS</span></p><p>P.S. If you really want to see what we have so far, visit <a href=\"http://speed50productions.github.io/beta\" target=\"_blank\">http://speed50productions.github.io/beta</a></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
